@@ -1,0 +1,26 @@
+{
+  "date": "Mon, 04 May 2026 00:00:00 GMT",
+  "promptId": 1714,
+  "byTime": [
+    {
+      "user": "livingplight",
+      "time": "8m 5.747s",
+      "timeSeconds": 485.747,
+      "clicks": 6
+    }
+  ],
+  "byClicks": [
+    {
+      "user": "livingplight",
+      "time": "8m 5.747s",
+      "timeSeconds": 485.747,
+      "clicks": 6
+    }
+  ],
+  "paths": [
+    {
+      "user": "livingplight",
+      "path": "WikiSpeedruns Triangle  6 🖱️ 485.747 ⏱️ https://wikispeedruns.com/play/1713"
+    }
+  ]
+}
